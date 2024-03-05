@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#44B346</color> <!-- Color primario de la aplicación -->
+    <color name="colorPrimaryDark">#7CBF71</color> <!-- Color de la barra de estado -->
+    <color name="colorAccent">#81DD59</color>
+</resources>
